@@ -1,0 +1,34 @@
+/* Header Section Style  */
+
+.bg-color {
+  background-color: #264653;
+}
+
+/* Happy Client Section   */
+.img-margin {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+.paragraph-padding {
+  color: #6c6c6c;
+  font-weight: 400;
+}
+
+a {
+  text-decoration: none;
+  font-size: 14px;
+}
+.banker {
+  color: #252b42;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+/* FAQ Section  */
+
+.accordion-para {
+  color: #6c6c6c;
+  font-size: 14px;
+  font-weight: 300;
+}
